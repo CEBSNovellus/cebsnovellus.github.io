@@ -61,7 +61,7 @@ profiles:
       <p>Quanta 19</p>
   - align: left
     image: profiles/Abhinav_prof.jpeg
-    content: about_abhinav.md
+    content: bios/about_abhinav.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Abhinav Kumar      </p>
