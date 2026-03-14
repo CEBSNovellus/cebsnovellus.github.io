@@ -10,8 +10,8 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: profiles/Amogha_prof.jpeg
+    content: bios/about_amogha.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Amogha Singharia</p>
@@ -32,14 +32,14 @@ profiles:
       <p>P S Abhijjith Sankar</p>
       <p>Quanta 15</p>
   - align: left
-    image: prof_pic.jpg
+    image: profiles/Aditya_prof.jpeg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Aditya M K</p>
       <p>Quanta 17</p>
   - align: right
-    image: prof_pic.jpg
+    image: profiles/Abhijeet_prof.jpeg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -53,7 +53,7 @@ profiles:
       <p> Rohan Ginnela</p>
       <p>Quanta 17</p>
   - align: right
-    image: prof_pic.jpg
+    image: profiles/Panav_prof.jpeg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
