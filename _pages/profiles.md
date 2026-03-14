@@ -58,19 +58,19 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Panav Jain          </p>
-      <p>Quanta 17</p>
+      <p>Quanta 19</p>
   - align: left
     image: profiles/Abhinav_prof.jpeg
     content: about_abhinav.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Abhinav Kumar      </p>
-      <p>Quanta 17</p>
+      <p>Quanta 19</p>
   - align: right
     image: prof_pic.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Niharika Sharma     </p>
-      <p>Quanta 17</p>
+      <p>Quanta 19</p>
 ---
