@@ -36,7 +36,7 @@ profiles:
     content: bios/about_aditya.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> Aditya M K</p>
+      <p> Aditya M K         </p>
       <p>Quanta 17</p>
   - align: right
     image: profiles/Abhijeet_prof.jpeg
@@ -47,30 +47,30 @@ profiles:
       <p>Quanta 17</p>
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: 
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> Rohan Ginnela</p>
+      <p> Rohan Ginnela      </p>
       <p>Quanta 17</p>
   - align: right
     image: profiles/Panav_prof.jpeg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Panav Jain</p>
-      <p>Quanta 17</p>
-  - align: left
-    image: prof_pic.jpg
     content: bios/about_panav.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> Abhinav Kumar</p>
+      <p>Panav Jain          </p>
+      <p>Quanta 17</p>
+  - align: left
+    image: prof_pic.jpg
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p> Abhinav Kumar      </p>
       <p>Quanta 17</p>
   - align: right
     image: prof_pic.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Niharika Sharma</p>
+      <p>Niharika Sharma     </p>
       <p>Quanta 17</p>
 ---
