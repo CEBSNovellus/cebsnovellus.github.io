@@ -1,0 +1,1 @@
+My name is Panav, and I am fascinated by how people think, create, and make sense of the world. I pursue these questions through literature, science, music, and philosophy. Much of what I do is guided by an innate curiosity to uncover more about the world we live in.

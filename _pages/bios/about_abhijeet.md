@@ -1,0 +1,1 @@
+I’m a 3rd year biology student in CEBS. I love to indulge in meaningful conversation. I consider myself a good orator and a diplomat. I have an inclination sometimes to spend money on others without any reason. I like to hear about different perspectives of life. I appreciate all forms of literature and art and discussion on the same.

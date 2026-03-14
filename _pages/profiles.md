@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: members of the lab or group
+description: Members of the Literature club and their bio
 nav: true
 nav_order: 7
 
@@ -33,14 +33,14 @@ profiles:
       <p>Quanta 15</p>
   - align: left
     image: profiles/Aditya_prof.jpeg
-    content: about_einstein.md
+    content: bios/about_aditya.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Aditya M K</p>
       <p>Quanta 17</p>
   - align: right
     image: profiles/Abhijeet_prof.jpeg
-    content: about_einstein.md
+    content: bios/about_abhijeet.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Kakkasshery Abhijeet Jeffy</p>
@@ -61,7 +61,7 @@ profiles:
       <p>Quanta 17</p>
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: about_panav.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Abhinav Kumar</p>
