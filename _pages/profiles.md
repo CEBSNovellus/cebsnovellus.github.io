@@ -60,8 +60,8 @@ profiles:
       <p>Panav Jain          </p>
       <p>Quanta 17</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: profiles/Abhinav_prof.jpeg
+    content: about_abhinav.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Abhinav Kumar      </p>
