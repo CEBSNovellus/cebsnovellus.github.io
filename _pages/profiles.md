@@ -46,11 +46,11 @@ profiles:
       <p>Kakkasshery Abhijeet Jeffy</p>
       <p>Quanta 17</p>
   - align: left
-    image: prof_pic.jpg
-    content: 
+    image: profiles/Rohan_prof.jpeg
+    content: bios/about_rohan.md
     image_circular: false # crops the image to make it circular
-    more_info: 
-      <p> Rohan Ginnela</p>
+    more_info: >
+      <p> Rohan Ginnela<br></p>
       <p>Quanta 17</p>
   - align: right
     image: profiles/Panav_prof.jpeg
